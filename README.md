@@ -14,9 +14,14 @@ Make sure you have installed Python 3 and virtual environment
 2. Install django
 ```
 pip install django
-
+```
 3. run the server
 ```
 
 manage.py runserver
 ```
+
+4. go to http://127.0.0.1:8000/admin/ and login
+```
+> Username -> admin
+> Password -> password123
