@@ -6,7 +6,7 @@ Make sure you have installed Python 3 and virtual environment
 
 ### Steps to open the DB 
 
-1. reate virtual environment and activate inside the project using CMD
+1. Create virtual environment and activate inside the project using CMD
 ```
 > On windows -> venv\Scripts\activate
 
