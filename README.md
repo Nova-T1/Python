@@ -10,7 +10,7 @@ Make sure you have installed Python 3 and virtual environment
 ```
 > On windows -> venv\Scripts\activate
 > On linux -> . env/bin/activate
-
+```
 2. Install django
 ```
 pip install django
